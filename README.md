@@ -159,7 +159,7 @@ The tools and techniques I've trained on, and where I learned or used each one.
 |:--|:--|:--|
 | `2026-06` | Shipped **[Port-Scanner](https://github.com/Ameya343/Port-Scanner)** | multi-threaded TCP/UDP recon from raw sockets |
 | `2026-06` | Shipped **[Locksmith](https://github.com/Ameya343/Locksmith)** | AES-256-GCM + PBKDF2, done right |
-| `2026-10-10` | Played **kBxAc CTF 2026** | 🏆 **rank #65** in my first CTF |
+| `2026-10-10` | Played **kBxAc CTF 2026** | 🏆 **rank #65 out of 300+ teams** in my first CTF |
 | `2026-11-08` | Released **[Anti-REA v0.1.0](https://github.com/Ameya343/Anti-REA)** | real RE tool recovered **0** IPC channels/endpoints |
 | `2026-11-26` | Released **[homograph-guard v1.3.0](https://github.com/Ameya343/homograph-guard)** | CLI + desktop + installer + browser extension |
 | `done` | Completed **HTB Academy Junior Cybersecurity Analyst (CJCA) path** ✔ | 20/20 modules, red + blue team · **20+ HTB labs** |
