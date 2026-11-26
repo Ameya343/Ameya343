@@ -3,13 +3,13 @@
   │  you opened the raw file. recon instinct: confirmed. │
   │  most visitors only ever see the rendered page.      │
   │  secret phrase for Mini-game 6:  "raw is law"        │
-  │                                        — Lord343     │
+  │                                        — Ameya343    │
   └──────────────────────────────────────────────────────┘
 -->
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Animated terminal. Ameya Ingole, aka Lord343: B.Tech CSE, 3rd year at Ramdeobaba University (RBU), Nagpur. Red and blue team fundamentals, web security (OWASP Top 10), networking, Linux. Toolbox: Nmap, Metasploit, Elastic SIEM, KQL, Sysmon, PowerShell, Bash, Python. Projects: Port-Scanner, Locksmith, Anti-REA, homograph-guard. HTB CJCA path 100%, 20+ HTB labs, kBxAc CTF 2026 rank 65. Open to cybersecurity internships and entry-level roles.">
+<img src="assets/header.svg" width="100%" alt="Animated terminal. Ameya Ingole, aka Ameya343: B.Tech CSE, 3rd year at Ramdeobaba University (RBU), Nagpur. Red and blue team fundamentals, web security (OWASP Top 10), networking, Linux. Toolbox: Nmap, Metasploit, Elastic SIEM, KQL, Sysmon, PowerShell, Bash, Python. Projects: Port-Scanner, Locksmith, Anti-REA, homograph-guard. HTB CJCA path 100%, 20+ HTB labs, kBxAc CTF 2026 rank 65. Open to cybersecurity internships and entry-level roles.">
 
 <a href="#-player-card"><img src="assets/nav-1.svg" height="40" alt="01 Player card"></a> <a href="#-arsenal"><img src="assets/nav-2.svg" height="40" alt="02 Arsenal"></a> <a href="#-loadout"><img src="assets/nav-3.svg" height="40" alt="03 Loadout"></a><br><a href="#-quest-log"><img src="assets/nav-4.svg" height="40" alt="04 Quest log"></a> <a href="#-mini-games"><img src="assets/nav-5.svg" height="40" alt="05 Mini-games"></a> <a href="#-contact"><img src="assets/nav-6.svg" height="40" alt="06 Contact"></a>
 
@@ -20,9 +20,9 @@
 </div>
 
 ```yaml
-# ~/.profile  ·  Lord343
+# ~/.profile  ·  Ameya343
 name:       Ameya Ingole
-alias:      Lord343
+alias:      Ameya343
 education:  B.Tech CSE · 3rd year @ Ramdeobaba University (RBU), Nagpur
 seeking:    cybersecurity internship or entry-level role
 focus:      [web security (OWASP Top 10), network recon, SOC & threat hunting, linux]
@@ -159,7 +159,7 @@ The tools and techniques I've trained on, and where I learned or used each one.
 |:--|:--|:--|
 | `2026-06` | Shipped **[Port-Scanner](https://github.com/Ameya343/Port-Scanner)** | multi-threaded TCP/UDP recon from raw sockets |
 | `2026-06` | Shipped **[Locksmith](https://github.com/Ameya343/Locksmith)** | AES-256-GCM + PBKDF2, done right |
-| `2026-10-10` | Played **kBxAc CTF 2026** | 🏆 **rank #65 out of 300+ teams** in my first CTF |
+| `2026-10-10` | Played **kBxAc CTF 2026** | 🏆 **rank #65** in my first CTF |
 | `2026-11-08` | Released **[Anti-REA v0.1.0](https://github.com/Ameya343/Anti-REA)** | real RE tool recovered **0** IPC channels/endpoints |
 | `2026-11-26` | Released **[homograph-guard v1.3.0](https://github.com/Ameya343/homograph-guard)** | CLI + desktop + installer + browser extension |
 | `done` | Completed **HTB Academy Junior Cybersecurity Analyst (CJCA) path** ✔ | 20/20 modules, red + blue team · **20+ HTB labs** |
@@ -264,16 +264,16 @@ The catch: the formula assumes random characters, and real attackers start with 
 <br>
 
 ```text
-TG9yZDM0MyB3YXMgaGVyZQ==
+QW1leWEzNDMgd2FzIGhlcmU=
 ```
 
-<sub>hint: the `==` at the end is a giveaway.</sub>
+<sub>hint: the `=` at the end is a giveaway.</sub>
 
 <details>
 <summary>🔓 reveal answer</summary>
 <br>
 
-It's **Base64**: `echo TG9yZDM0MyB3YXMgaGVyZQ== | base64 -d` gives **`Lord343 was here`**.
+It's **Base64**: `echo QW1leWEzNDMgd2FzIGhlcmU= | base64 -d` gives **`Ameya343 was here`**.
 
 Base64 is an *encoding*, not encryption. Anyone can reverse it, so never use it to protect anything.
 
@@ -317,7 +317,6 @@ The fastest way to reach me is LinkedIn.
 
 <a href="https://www.linkedin.com/in/ameya-ingole-996866315/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn: Ameya Ingole"></a> <a href="https://github.com/Ameya343"><img src="assets/btn-github.svg" height="40" alt="GitHub: Ameya343"></a>
 
-<sub><code>lord343@rbu:~$ exit</code> · thanks for stopping by</sub>
+<sub><code>ameya343@rbu:~$ exit</code> · thanks for stopping by</sub>
 
 </div>
-
